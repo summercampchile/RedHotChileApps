@@ -1,4 +1,0 @@
-RedHotChileApps
-===============
-
-RedHotChileApps' App
